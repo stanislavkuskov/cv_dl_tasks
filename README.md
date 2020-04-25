@@ -9,7 +9,7 @@ Each of tasks include code and description inside jupyter notebook or python scr
 This jupyter/python file and other additional files such as images, python script etc. included in task subdirectory.
 
 #### How two use
-Install anaconda (conda 4.8.3) and use requirements.txt for installation of 
+Install anaconda (conda 4.8.3) and use requirements.txt for installation requirements
 
 ###### Requirements
 - opencv >= 4.1.0
