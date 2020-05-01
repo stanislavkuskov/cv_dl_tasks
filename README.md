@@ -17,12 +17,13 @@ Install anaconda (conda 4.8.3) and use requirements.txt for installation require
 - matplotlib == 3.1.3 
 - pydot=1.4.1
 - graphviz=2.40.1
+- jupyterlab=2.1.1
 
 For installation use requirements.txt (Anaconda).
 
 #### Tasks list
-1. cv_tf2_keras_base_model - basic CNN model with tensorflow2 keras api.
+**1. simple_cnn_model - basic CNN model with tensorflow2 keras api.**
 
-
-tips in tf
-https://proglib.io/p/deep-learning-tricks/
+In this task we will analyze basic CNN model, 
+layers included at this model, see how to use datasets included into tensorflow and work with them,
+try to train our lenet-5 model with preprocessed dataset.
