@@ -27,3 +27,8 @@ For installation use requirements.txt (Anaconda).
 In this task we will analyze basic CNN model, 
 layers included at this model, see how to use datasets included into tensorflow and work with them,
 try to train our lenet-5 model with preprocessed dataset.
+
+**2. model_optimization - Model optimization. Regularization, dropout, early stopping.**
+In this task we try to increase accuracy of lenet-5 model and decrease loss.
+We know what is overfitting and try to solve it with standard regularization methods - early stopping and Dropout.
+
